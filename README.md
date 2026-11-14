@@ -1,4 +1,3 @@
-```markdown
 # Gold Returns Predictive Analytics & Clustering
 
 This repository contains the machine learning final exam project analyzing, predicting, and clustering financial market data using a highly dimensional gold dataset.
